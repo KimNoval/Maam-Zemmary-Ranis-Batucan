@@ -1,0 +1,41 @@
+P{
+    color:blueviolet
+    text-align: center;
+    font-size: xx-large;
+    font-family: Broadway
+}
+body{
+    text align: center;
+    background-color:beige
+}
+
+ul{
+    list-style:square
+}
+
+ul, ol{
+    font-family:Comic Sans MS;
+}
+
+dl{
+    font-family:Comic Sans MS;
+}
+
+h1{
+    font-family: Broadway;
+}
+
+h2{
+    font-family:Comic Sans MS;
+}
+
+img{
+    width: 400px;  
+    height: 300px;  
+    border-radius: 15%;
+
+    button{
+        position:fixed;
+        bottom: 10px;
+        right: 10px;
+    }
